@@ -1,0 +1,25 @@
+Real
+Variação para εr = 2.2 Ansys 2022 R2
+re(Z)(Ω)
+Freq(GHz)
+Setup1 : Sweep L=10mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=11mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=12mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=13mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=14mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=15mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=16mm*
+re(ZL),(Ω)
+Setup1 : Sweep L=17mm*
+
+
+Parece ser um gráfico de linhas com várias séries de dados representadas por diferentes cores.
+Cada série de dados representa um “Setup” diferente, variando o comprimento “L” de 10mm a 17mm.
+O eixo X é rotulado como “Freq (GHz)” e o eixo Y como “re(Z) (Ω)”. O título do gráfico é “Real”
+e há uma nota no canto superior direito que diz “Variação para εr = 2.2 Ansys 2022 R2”. 😊
